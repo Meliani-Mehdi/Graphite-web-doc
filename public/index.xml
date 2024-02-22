@@ -9,6 +9,15 @@
     <lastBuildDate>Wed, 21 Feb 2024 15:35:42 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Main</title>
+      <link>//localhost:1313/main/index.html</link>
+      <pubDate>Wed, 21 Feb 2024 15:08:43 +0100</pubDate>
+      <guid>//localhost:1313/main/index.html</guid>
+      <description>What is Graphite ? : Graphite is a powerful desktop application designed to streamline the analysis of Excel and CSV files. With Graphite, you can effortlessly transform raw data into insightful graphs, enabling you to make informed decisions based on comprehensive data visualization.
+Key Features:
+Import and analyze data from Excel and CSV files. Generate customizable graphs for effective data representation. Save your graphs in various formats, including PNG, to facilitate easy sharing and integration into reports.</description>
+    </item>
+    <item>
       <title>Installation</title>
       <link>//localhost:1313/installation/index.html</link>
       <pubDate>Wed, 21 Feb 2024 15:35:42 +0100</pubDate>
@@ -25,15 +34,6 @@ wget https://github.com/Meliani-Mehdi/Graphite_QT/releases/download/v1.0.0/Graph
       <pubDate>Tue, 19 Dec 2023 13:35:43 +0100</pubDate>
       <guid>//localhost:1313/doc/index.html</guid>
       <description>testing</description>
-    </item>
-    <item>
-      <title>Main</title>
-      <link>//localhost:1313/main/index.html</link>
-      <pubDate>Wed, 21 Feb 2024 15:08:43 +0100</pubDate>
-      <guid>//localhost:1313/main/index.html</guid>
-      <description>What is Graphite ? : Graphite is a powerful desktop application designed to streamline the analysis of Excel and CSV files. With Graphite, you can effortlessly transform raw data into insightful graphs, enabling you to make informed decisions based on comprehensive data visualization.
-Key Features:
-Import and analyze data from Excel and CSV files. Generate customizable graphs for effective data representation. Save your graphs in various formats, including PNG, to facilitate easy sharing and integration into reports.</description>
     </item>
   </channel>
 </rss>
