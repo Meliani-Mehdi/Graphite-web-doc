@@ -1,8 +1,7 @@
 +++
-title = 'Main'
+title = 'Graphite'
 date = 2024-02-21T15:08:43+01:00
 draft = false
-weight = 10
 +++
 
 ### What is Graphite ? :
