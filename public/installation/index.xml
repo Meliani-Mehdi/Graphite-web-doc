@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation on Graphite</title>
-    <link>//localhost:1313/installation/index.html</link>
+    <link>http://localhost:1313/installation/index.html</link>
     <description>Recent content in Installation on Graphite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 22:53:31 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/installation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/installation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows</title>
-      <link>//localhost:1313/installation/windows/index.html</link>
+      <link>http://localhost:1313/installation/windows/index.html</link>
       <pubDate>Wed, 21 Feb 2024 15:35:42 +0100</pubDate>
-      <guid>//localhost:1313/installation/windows/index.html</guid>
+      <guid>http://localhost:1313/installation/windows/index.html</guid>
       <description>Windows To install Graphite on Windows, follow these steps:
 Go to the Releases page. Download the latest release. Run the installer and follow the on-screen instructions to install Graphite. Once installed, you can launch Graphite and start analyzing your data. </description>
     </item>
     <item>
       <title>Linux</title>
-      <link>//localhost:1313/installation/linux/index.html</link>
+      <link>http://localhost:1313/installation/linux/index.html</link>
       <pubDate>Wed, 21 Feb 2024 15:35:42 +0100</pubDate>
-      <guid>//localhost:1313/installation/linux/index.html</guid>
+      <guid>http://localhost:1313/installation/linux/index.html</guid>
       <description>Linux To install Graphite on Linux, follow these steps:
 Open a terminal.
 Run the following commands to download and install Graphite:
@@ -28,9 +28,9 @@ wget https://github.com/Meliani-Mehdi/Graphite_QT/releases/download/v1.0.0/Graph
     </item>
     <item>
       <title>mac</title>
-      <link>//localhost:1313/installation/mac/index.html</link>
+      <link>http://localhost:1313/installation/mac/index.html</link>
       <pubDate>Wed, 21 Feb 2024 15:35:42 +0100</pubDate>
-      <guid>//localhost:1313/installation/mac/index.html</guid>
+      <guid>http://localhost:1313/installation/mac/index.html</guid>
       <description>macOS To install Graphite on macOS, follow these steps:
 Go to the Releases page. Download the latest release. Open the downloaded DMG file and drag the Graphite application to your Applications folder. Once installed, you can launch Graphite from the Applications folder. For more detailed installation instructions and troubleshooting tips, refer to the Installation Guide.</description>
     </item>

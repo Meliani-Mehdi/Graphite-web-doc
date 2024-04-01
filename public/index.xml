@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graphite</title>
-    <link>//localhost:1313/index.html</link>
+    <link>http://localhost:1313/index.html</link>
     <description>Recent content on Graphite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Feb 2024 15:08:43 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
-      <link>//localhost:1313/installation/index.html</link>
+      <link>http://localhost:1313/installation/index.html</link>
       <pubDate>Thu, 22 Feb 2024 22:53:31 +0100</pubDate>
-      <guid>//localhost:1313/installation/index.html</guid>
+      <guid>http://localhost:1313/installation/index.html</guid>
       <description>Graphite is available for multiple operating systems, including Linux, macOS, and Windows. Follow the instructions below to install Graphite on your preferred platform.
 Linux Installation macOS Installation Windows Installation </description>
     </item>
     <item>
       <title>Infoes</title>
-      <link>//localhost:1313/info/index.html</link>
+      <link>http://localhost:1313/info/index.html</link>
       <pubDate>Thu, 22 Feb 2024 22:36:57 +0100</pubDate>
-      <guid>//localhost:1313/info/index.html</guid>
+      <guid>http://localhost:1313/info/index.html</guid>
       <description></description>
     </item>
   </channel>
