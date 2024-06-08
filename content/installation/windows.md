@@ -14,7 +14,7 @@ To install Graphite on Windows, follow these steps:
 3. Once installed, locate the Graphite executable file.
 4. Right-click the executable file and select "Run as administrator" to give it administrative privileges.
 
-<a href="/downloads/setup.exe" download>
+<a href="/downloads/Graphite_V1.0_Windows_setup.exe" download>
   <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
     Download Graphite Setup
   </button>
