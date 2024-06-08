@@ -17,6 +17,13 @@
 Linux Installation macOS Installation Windows Installation </description>
     </item>
     <item>
+      <title>Tuttorial</title>
+      <link>http://localhost:1313/tutorial/index.html</link>
+      <pubDate>Wed, 05 Jun 2024 15:08:43 +0100</pubDate>
+      <guid>http://localhost:1313/tutorial/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Infoes</title>
       <link>http://localhost:1313/info/index.html</link>
       <pubDate>Thu, 22 Feb 2024 22:36:57 +0100</pubDate>
