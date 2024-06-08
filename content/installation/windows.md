@@ -9,7 +9,13 @@ weight = 1
 
 To install Graphite on Windows, follow these steps:
 
-1. Go to the [Releases](https://github.com/Meliani-Mehdi/Graphite_QT/releases) page.
-2. Download the latest release.
-3. Run the installer and follow the on-screen instructions to install Graphite.
-4. Once installed, you can launch Graphite and start analyzing your data.
+1. Download the setup file by clicking the button below.
+2. Run the setup file and follow the on-screen instructions to install Graphite.
+3. Once installed, locate the Graphite executable file.
+4. Right-click the executable file and select "Run as administrator" to give it administrative privileges.
+
+<a href="/downloads/setup.exe" download>
+  <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
+    Download Graphite Setup
+  </button>
+</a>
