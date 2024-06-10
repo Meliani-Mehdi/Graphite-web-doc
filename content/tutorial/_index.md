@@ -1,5 +1,5 @@
 +++
-title = 'Tuttorial'
+title = 'Tutorial'
 date = 2024-06-05T15:08:43+01:00
 draft = false
 weight = 3
@@ -52,7 +52,7 @@ Graphite is a robust desktop application that simplifies the analysis of Excel a
 - [other essential shortcuts](#other-essential-shortcuts).
 
 ## Getting started  :
- - **How to acess website** :
+ - **How to acess website from graphite** :
       - Image.
    - As the image shows:
      1. go to the **about** button in the **menu**.
@@ -61,7 +61,7 @@ Graphite is a robust desktop application that simplifies the analysis of Excel a
  - **instalation** :
         - Image.
    - As the image shows:
-     1. go to [**instalation**](http://localhost:1313/installation/) page.
+     1. go to [**instalation**](https://master--graphite-doc.netlify.app/installation/) page.
      2. select your operating system.
      3. **Windows**:
         - download setup.<br>
