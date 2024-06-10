@@ -57,9 +57,14 @@ Graphite is a robust desktop application that simplifies the analysis of Excel a
    - As the image shows:
      1. go to the **about** button in the **menu**.
      2. when clicking the button you will be directed to graphite website.
-       - Image.    
+
+       ![website](/images/website1.png)
+      
+
  - **instalation** :
-        - Image.
+       
+   ![figure 1](/images/instalation.png) 
+
    - As the image shows:
      1. go to [**instalation**](https://master--graphite-doc.netlify.app/installation/) page.
      2. select your operating system.
@@ -72,50 +77,53 @@ Graphite is a robust desktop application that simplifies the analysis of Excel a
 
 ## Open functionalities :
  - **Open file** :
-   - Image.
+    
+   ![figure 2](/images/open.png)
+
+   ![figure 3](/images/opensteps.png)
+
    - As the image shows:
      1. go to the **file menu** and choose **open file** or click the **open button** or use the shortcut **ctrl+O**.
      2. the file will be opened directly in the **graphTab** with the **lineType** as default plotting type.
-        Image.
+
+      ![figure 4](/images/graph.png)
  - **Open folder** :
-    - Image.
-   - As the image shows:
+   
      1. go to the **file menu** and choose **open folder** or use the shortcut **ctrl+shift+O**.
      2. you can choose to open one of 3 diffrent data format **EXEL**,**CSV**,**JSON**.
      3. click open and a **file tree** will appear in the left frame .
      4. choose your file from the **file tree** and it will be shown directly in the **graphTab**.
+
  - **New function** :
-   - Image.
+   
+   ![function](/images/func.png)
+
    - As the image shows:
      1. go to **file menu** and choose **new->fx** or the use shortcut **ctrl+shift+F**.
      2. the function dialog will appear put you function in the textfield.
      3. specify the range and steps and click plot.
+
  - **New worksheet** :
-   - Image.
-   - As the image shows:
+   
      1. go to **file menu** and choose **new->worksheet** or use the shortcut **ctrl+N**.
      2. empty worksheet will appear and you can do the functionalities from their buttons **adding columns and rows**,
         **generating id**,**adding values and editing them**,**plotting your work**.
+
  - **Open recent** :
-   - Image.
-   - As the image shows:
+   
      1. go to **file menu** and choose **open recent**.
      2. a list of previous work will appear you can choose one and work with it or deleting one by clicking the **X** icon.
+
  - **Open image** :
-   - Image.
-   - As image shows:
+   
      1. after choosing an image file the **interpolation dialog** will appear.
      2. choose your x axis and y axis range by selecting it using hold left mouse click.
      3. specify points by clicking on them and then apply and plot your graph.
 
 ## Save functionalities :
  - **How to save** :
-   - Image.
-   - As the image shows:
      1. go to **file menu** and choose **save** or click **save button**,or use the shortcut **ctrl+S** and the file will be saved in the default location.
  - **Save as** :
-   - Image.
-   - As the image shows:
      1. got to **file menu** and choose **save as** or use the shortcut **ctrl+shift+S**.
      2. choose the desired location and the foramt from those three (**EXEL**,**CSV**,**JSON**).
 
@@ -150,7 +158,9 @@ Graphite is a robust desktop application that simplifies the analysis of Excel a
       - Image.
 
 ## Worksheet functionalities :
- - Image.
+
+ ![worksheet](/images/worksheet.png)
+
  - **Acess worksheet**:
   - that by clicking the **worksheet button**.
  - **ID generation**:
