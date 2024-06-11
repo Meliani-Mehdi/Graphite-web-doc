@@ -17,18 +17,24 @@
 Linux Installation macOS Installation Windows Installation </description>
     </item>
     <item>
-      <title>Tuttorial</title>
+      <title>Tutorial</title>
       <link>http://localhost:1313/tutorial/index.html</link>
       <pubDate>Wed, 05 Jun 2024 15:08:43 +0100</pubDate>
       <guid>http://localhost:1313/tutorial/index.html</guid>
-      <description></description>
+      <description>What is Graphite ? : Graphite is a robust desktop application that simplifies the analysis of Excel and CSV files. It allows users to easily convert raw data into meaningful graphs, facilitating well-informed decisions through thorough data visualization.
+documentation contenet:
+Getting started.
+how to acess website. installation. open functionalities:
+open file. open folder. new function. new worksheet. open recent. open image. save functionalities:
+how to save. save as. data analysis :</description>
     </item>
     <item>
-      <title>Infoes</title>
+      <title>What is New</title>
       <link>http://localhost:1313/info/index.html</link>
       <pubDate>Thu, 22 Feb 2024 22:36:57 +0100</pubDate>
       <guid>http://localhost:1313/info/index.html</guid>
-      <description></description>
+      <description>Release Notes for Graphite v1.0.0 We are happy to launch our first project, Graphite, which is a data visualizer that will help you create insightful and interactive visualizations from your datasets. This initial release focuses on providing a robust foundation with key features to get you started with data visualization.
+New Features Interactive Charts: Create various types of charts (bar, line, pie, etc.) that allow you to interact with your data.</description>
     </item>
   </channel>
 </rss>

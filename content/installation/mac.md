@@ -8,9 +8,12 @@ draft = false
 
 To install Graphite on macOS, follow these steps:
 
-1. Go to the [Releases](https://github.com/Meliani-Mehdi/Graphite_QT/releases) page.
-2. Download the latest release.
-3. Open the downloaded DMG file and drag the Graphite application to your Applications folder.
-4. Once installed, you can launch Graphite from the Applications folder.
+1. Open a terminal.
+2. Run the following commands to run Graphite:
 
-For more detailed installation instructions and troubleshooting tips, refer to the [Installation Guide](https://github.com/Meliani-Mehdi/Graphite_QT/blob/main/INSTALLATION.md).
+   ```bash
+   wget https://github.com/Meliani-Mehdi/Graphite_QT/releases/download/Graphite/Graphite_V1.0_Linux.tar.gz
+   tar -zxvf Graphite_V1.0_Linux.tar.gz
+   cd Graphite_V1.0_Linux
+   ./Graphite
+
